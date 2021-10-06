@@ -1,0 +1,3 @@
+[submodule "Assets/IOC"]
+	path = Assets/IOC
+	url = https://github.com/noobgamede/ioc.git
