@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Cell : MonoBehaviour
 {
-    [SerializeField]
+    //[SerializeField]
 }
